@@ -1,0 +1,6 @@
+# Put in .git_comments/info/exclude
+# exclude everything except staticman and data directory
+/*
+!staticman.yml
+!/data
+!.git_comments_exclude
