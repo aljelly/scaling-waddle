@@ -74,7 +74,10 @@ comments:
   # the name of the field and values are possible transformation types.
   #transforms:
   #  email: md5
-
+  
+akismet:
+  enabled: true
+  
 reCaptcha:
   enabled: false
   # siteKey: "6LeRECgUAAAAAP9Xvm5SMVybb_Nnc0Ez7x18AG31"
