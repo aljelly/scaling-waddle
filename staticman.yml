@@ -37,7 +37,7 @@ comments:
   moderation: true
 
   # Name of the site. Used in notification emails.
-  name: "Aled's Blog"
+  name: "Aled - Blog"
 
   # (*) REQUIRED
   #
@@ -76,7 +76,7 @@ comments:
   #  email: md5
   
 akismet:
-  enabled: true
+  enabled: false
   
 reCaptcha:
   enabled: false
@@ -96,7 +96,7 @@ posts:
     tags: ["user-generated"]
   format: "frontmatter"
   moderation: true
-  name: "Aled's Blog"
+  name: "Aled - Blog"
   path: "content/post"
   filename: "{fields.slug}"
   requiredFields: ["title", "body"]
