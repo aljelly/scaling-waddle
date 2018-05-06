@@ -1,0 +1,7 @@
+_id: 66637a30-50dd-11e8-ac87-87928077e3bf
+_parent: markdown-test
+reply_to: ''
+name: Mermaid Man
+email: ''
+body: "This is _MY_ mermaid chart:\r\n```mermaid\r\ngraph LR\r\nA[Square Rect] -- Link text --> B((Circle))\r\nA --> C(Round Rect)\r\nB --> D{Rhombus}\r\nA --> D\r\nB --> A\r\n```"
+date: '2018-05-06T03:27:27.490Z'
