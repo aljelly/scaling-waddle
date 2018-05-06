@@ -1,0 +1,7 @@
+_id: 0d720c60-50de-11e8-ac87-87928077e3bf
+_parent: markdown-test
+reply_to: 66637a30-50dd-11e8-ac87-87928077e3bf
+name: Evil person
+email: ''
+body: "<script>alert(\"MUHAHAHAHAHAHAHAHAHA\");</script>\r\n\r\n```mermaid\r\nA[Evil script] --> B[<script>alert(\"MUHAHAHAHAHAHAHAHAHA\");</script>]\r\n```"
+date: '2018-05-06T03:32:07.678Z'
